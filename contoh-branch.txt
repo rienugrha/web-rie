@@ -1,1 +1,2 @@
 Ini Contoh Branch
+ini contoh commit ke dua di file contoh-branch
