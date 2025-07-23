@@ -1,4 +1,6 @@
 Ini catatan saya belajar git (Version COntrol System)
 # Hari Pertama
-  -belajar bekerja dengan git
-  -test
+  - Belajar bekerja dengan git
+    - Belajar membuat repository
+    - Membuat file di branch main
+    - edit file dan commit ulang
