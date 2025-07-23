@@ -1,1 +1,3 @@
 Ini catatan saya belajar git (Version COntrol System)
+# Hari Pertama
+  -belajar bekerja dengan git
