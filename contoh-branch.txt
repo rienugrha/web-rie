@@ -1,3 +1,12 @@
 Ini Contoh Branch
 ini contoh commit ke dua di file contoh-branch
 Struktur Data Dasar
+
+Contoh aja :
+  * ES6
+  * Framework javascript
+    ^ Vue
+    ^ React
+  Php Framework
+  ^ Laravel
+Python
