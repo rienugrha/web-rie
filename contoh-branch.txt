@@ -6,6 +6,7 @@ Contoh aja :
   * ES6
   * Framework javascript
     ^ Vue
+    ^ React
   Php Framework
   ^ Laravel
 Python
