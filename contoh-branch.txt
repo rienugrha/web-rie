@@ -8,7 +8,7 @@ Contoh aja :
     ^ React
 
 Contoh aja :
-  * ES6
+  * ES7
   * Framework javascript
     ^ Vue
     ^ React
